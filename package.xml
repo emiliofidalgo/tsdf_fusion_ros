@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package>
+  <name>tsdf_fusion_ros</name>
+  <version>0.1.0</version>
+  <description>ROS package to work with Andy Zeng's TSDF Fusion</description>
+
+  <maintainer email="emilio.garcia@uib.es">Emilio Garcia-Fidalgo</maintainer>
+
+  <license>BSD</license>
+  <url type="website">http://wiki.ros.org/tsdf_fusion_ros</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+  <build_depend>rospy</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>message_generation</build_depend>
+
+  <run_depend>roscpp</run_depend>
+  <run_depend>rospy</run_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>message_runtime</run_depend>
+
+</package>
