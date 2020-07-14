@@ -1,0 +1,3 @@
+[submodule "tsdf_fusion"]
+	path = tsdf_fusion
+	url = git@github.com:emiliofidalgo/tsdf-fusion-python.git
